@@ -1,0 +1,203 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\naga\\CV\\readytech\\ReadyTech.Test2.CoffeeMachineAPI\\ReadyTech.Test2.CoffeeMachineAPI.Tests\\ReadyTech.Test2.CoffeeMachineAPI.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\naga\\CV\\readytech\\ReadyTech.Test2.CoffeeMachineAPI\\ReadyTech.Test2.CoffeeMachineAPI.Tests\\ReadyTech.Test2.CoffeeMachineAPI.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\naga\\CV\\readytech\\ReadyTech.Test2.CoffeeMachineAPI\\ReadyTech.Test2.CoffeeMachineAPI.Tests\\ReadyTech.Test2.CoffeeMachineAPI.Tests.csproj",
+        "projectName": "ReadyTech.Test2.CoffeeMachineAPI.Tests",
+        "projectPath": "C:\\naga\\CV\\readytech\\ReadyTech.Test2.CoffeeMachineAPI\\ReadyTech.Test2.CoffeeMachineAPI.Tests\\ReadyTech.Test2.CoffeeMachineAPI.Tests.csproj",
+        "packagesPath": "C:\\Users\\rasun\\.nuget\\packages\\",
+        "outputPath": "C:\\naga\\CV\\readytech\\ReadyTech.Test2.CoffeeMachineAPI\\ReadyTech.Test2.CoffeeMachineAPI.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rasun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\naga\\CV\\readytech\\ReadyTech.Test2.CoffeeMachineAPI\\ReadyTech.Test2.CoffeeMachineAPI\\ReadyTech.Test2.CoffeeMachineAPI.csproj": {
+                "projectPath": "C:\\naga\\CV\\readytech\\ReadyTech.Test2.CoffeeMachineAPI\\ReadyTech.Test2.CoffeeMachineAPI\\ReadyTech.Test2.CoffeeMachineAPI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\naga\\CV\\readytech\\ReadyTech.Test2.CoffeeMachineAPI\\ReadyTech.Test2.CoffeeMachineAPI\\ReadyTech.Test2.CoffeeMachineAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\naga\\CV\\readytech\\ReadyTech.Test2.CoffeeMachineAPI\\ReadyTech.Test2.CoffeeMachineAPI\\ReadyTech.Test2.CoffeeMachineAPI.csproj",
+        "projectName": "ReadyTech.Test2.CoffeeMachineAPI",
+        "projectPath": "C:\\naga\\CV\\readytech\\ReadyTech.Test2.CoffeeMachineAPI\\ReadyTech.Test2.CoffeeMachineAPI\\ReadyTech.Test2.CoffeeMachineAPI.csproj",
+        "packagesPath": "C:\\Users\\rasun\\.nuget\\packages\\",
+        "outputPath": "C:\\naga\\CV\\readytech\\ReadyTech.Test2.CoffeeMachineAPI\\ReadyTech.Test2.CoffeeMachineAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rasun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
